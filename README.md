@@ -35,4 +35,4 @@ Email: ``unformalecho@outlook.co.id``
 ---
 
 *"Curiosity is the wick in the candle of learning."* 
--William Arthur Ward
+  -William Arthur Ward
